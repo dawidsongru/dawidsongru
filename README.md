@@ -10,7 +10,7 @@
 
 - 🏠 Abreu e Lima/PE - Brazil
 
-- 🏣 IFPE Igarassu/PE - Brazil
+- 🏣 IFPE - Campus Igarassu/PE - Brazil
 
 
    ##
