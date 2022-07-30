@@ -4,11 +4,15 @@
 
 - 🔥 Junior Web Developer focused on learning new programming tecnologies.
 
-- 🔭 Student of TSI - Technology in Internet Systems at IFPE - Federal Institute of Education, Science and Technology of Pernambuco - 4th period - Campus Igarassu/PE - Brazil.
+- ✉ dawidsongru@gmail.com
 
-- 🔭 Student of TSI - Technology in Internet Systems at IFPE - Federal Institute of Education, Science and Technology of Pernambuco - 4th period - Campus Igarassu/PE - Brazil.
+- 📞 +5581999595743
 
-- 🔭 Student of TSI - Technology in Internet Systems at IFPE - Federal Institute of Education, Science and Technology of Pernambuco - 4th period - Campus Igarassu/PE - Brazil.
+- 🏠 Abreu e Lima/PE - Brazil
+
+- 🏣 IFPE Igarassu/PE - Brazil
+
+
    
 <div align="center">
   <a href="https://github.com/dawidsongru">
