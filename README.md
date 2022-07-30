@@ -1,5 +1,5 @@
 <img align="right" height="225em" src="https://raw.githubusercontent.com/gist/dawidsongru/12a4672a92f7c63a6628f065fbd9da61/raw/730bd0f2cbc3a0e1ab153bc0a3249ea28cc875c4/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px">, I'm Dawidson Pereira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="100px">, I'm Dawidson Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer focused on learning new programming tecnologies.
