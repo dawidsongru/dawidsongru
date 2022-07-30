@@ -26,12 +26,12 @@
    <img align="center" alt="HTML5" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
    <img align="center" alt="CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
    <img align="center" alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
    <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
    <img align="center" alt="Vue" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor">
    <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
    <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
    <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
