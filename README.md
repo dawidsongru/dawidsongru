@@ -51,7 +51,6 @@
    
  
   
-  ![Snake animation](https://.github/workflows/main.yml)
-   
+![Snake animation](https://github.com/dawidsongru/dawidsongru/blob/output/github-contribution-grid-snake.svg)   
  
 </div>
