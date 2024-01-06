@@ -36,6 +36,7 @@
    <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
    <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
    <img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">  <img align="center" alt="C#" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"></a>
  </div>
 
 ##
