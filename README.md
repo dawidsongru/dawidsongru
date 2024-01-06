@@ -29,7 +29,7 @@
    <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
    <img align="center" alt="Vue" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
-   <img align="center" alt="Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor">
+   <img align="center" alt="Laravel" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/laravel.png">
    <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
    <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
