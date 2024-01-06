@@ -23,20 +23,26 @@
 
    
 <div style="display: inline_block" align="center"><br>
+   <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=148&color=000000">
+   <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000">
    <img align="center" alt="HTML5" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
    <img align="center" alt="CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
    <img align="center" alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
    <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
    <img align="center" alt="Vue" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
-   <img align="center" alt="Laravel" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/laravel.png">
+   <img align="center" alt="Laravel" height="40" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=f05340">
+   <img align="center" alt="NPM" height="40" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+    <img align="center" alt="Trello" height="40" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=ffffff">
    <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
    <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
    <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-   <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-   <img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">  <img align="center" alt="C#" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"></a>
+   <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=148&color=ffffff">
+   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/fluidicon.png">
+   <img align="center" alt=".NET" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=ffffff">
+   <img align="center" alt="C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+
  </div>
 
 ##
