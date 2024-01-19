@@ -60,8 +60,6 @@
 
 <div class="Panel-Contribuition">
     <div>
-    <img height="150rem" src="https://github-readme-activity-graph.vercel.app/graph?username=dawidsongru&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](/github-readme-activity-graph"/>
+    <img height="150rem" src="https://github-readme-activity-graph.vercel.app/graph?username=dawidsongru&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](/github-readme-activity-graph"/>
     </div>
-</div>
-
 </div>
