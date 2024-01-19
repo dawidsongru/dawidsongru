@@ -52,16 +52,15 @@
   <a href="https://www.instagram.com/dawidsongru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/dawidsongru" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5581999595743" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://drive.google.com/drive/folders/1jS5TExG9To9FxYb6cIJ9mAGc2OlvnUbG?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Certificates-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1mCDEgwJPG8E0BBl4Zs5dRpxGNull8ViH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-006400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="https://drive.google.com/drive/folders/1jS5TExG9To9FxYb6cIJ9mAGc2OlvnUbG?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Certificates-a24a99?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1mCDEgwJPG8E0BBl4Zs5dRpxGNull8ViH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-ff0000?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=write" target="_blank"></a>
   
 
 ## Contribuition Chart
 
 <div class="Panel-Contribuition">
     <div>
-    <img height="150rem" src="https://github-readme-activity-graph.vercel.app/graph?username=dawidsongru&bg_color=000000&color=F0FFFF&line=f0ffff&point=ff0000&area=true&hide_border=true)](/github-readme-activity-graph"/>
+    <img height="150rem" src="https://github-readme-activity-graph.vercel.app/graph?username=dawidsongru&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](/github-readme-activity-graph"/>
     </div>
 </div>
 
