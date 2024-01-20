@@ -53,7 +53,7 @@
   <a href="https://github.com/dawidsongru" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5581999595743" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://drive.google.com/drive/folders/1jS5TExG9To9FxYb6cIJ9mAGc2OlvnUbG?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Certificates-a24a99?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1mCDEgwJPG8E0BBl4Zs5dRpxGNull8ViH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-ff0000?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=write" target="_blank"></a>
+  <a href="https://drive.google.com/drive/folders/10uHvqC7fqqZCkifXaeaj-E4Z3Cc4JZ1E?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-ff0000?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=write" target="_blank"></a>
   
 
 ## Contribuition Chart
