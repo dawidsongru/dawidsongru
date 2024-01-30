@@ -38,10 +38,13 @@
    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
    <img align="center" alt="Trello" height="40" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=ffffff">
    <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
+   <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
    <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=148&color=ffffff">
    <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/fluidicon.png">
    <img align="center" alt=".NET" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=ffffff">
    <img align="center" alt="C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  
+
 
  </div>
 
