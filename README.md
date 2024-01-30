@@ -36,7 +36,6 @@
    <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
    <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-   <img align="center" alt="Trello" height="40" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=ffffff">
    <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
    <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
    <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=148&color=ffffff">
