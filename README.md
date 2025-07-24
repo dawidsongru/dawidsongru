@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dawidson Pereira</h1>
-<img align="right" height="25" src="https://raw.githubusercontent.com/gist/dawidsongru/12a4672a92f7c63a6628f065fbd9da61/raw/730bd0f2cbc3a0e1ab153bc0a3249ea28cc875c4/githubcard.svg"/>
+<img align="right" height="250" src="https://raw.githubusercontent.com/gist/dawidsongru/12a4672a92f7c63a6628f065fbd9da61/raw/730bd0f2cbc3a0e1ab153bc0a3249ea28cc875c4/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidsongru&color=blue" alt="Profile views" /> </p>
 
 - 💻 Systems Developer, graduated in Computer Network Management and studying TSI - Technology in Internet Systems, with a focus on learning new programming technologies.
